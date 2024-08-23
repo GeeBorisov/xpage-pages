@@ -865,8 +865,8 @@ html, body {
   --time: 0.1s;
   --width: 14px;
   --height: 4px;
-  --line-height: 0.1px;
-  --spacing: 5px;
+  --line-height: 1px;
+  --spacing: 4px;
   --color: #000;
   --radius: 0px;
   height: calc(var(--line-height) * 3 + var(--spacing) * 2);
